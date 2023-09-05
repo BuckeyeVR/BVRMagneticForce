@@ -1,0 +1,15 @@
+This file is a unity project that contains visualizations of the magnetic force in different situations
+that were developed by the BuckeyeVR project for an educational research study in 2017 that used 
+smartphone-based VR.
+
+If you download unity 5.5.1f1 you should be able to open and modify the source and export to various
+platforms.
+
+This project was originally named 1251_BVR_Flex_New_CP_9-21-17
+
+You can see the WebGL version of this unity project at this link:
+https://buckeyevr.github.io/1251_Flex_AU_17_BField/ 
+
+As of September 2023, the link above is still working.
+
+The code in this repository is on the AGPL license so please feel free to fork and modify as you like!
