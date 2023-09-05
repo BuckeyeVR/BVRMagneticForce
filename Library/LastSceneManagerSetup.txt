@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/1251AU17_BField/32_Scene_PC_RHR_Force.unity
+  isLoaded: 1
+  isActive: 1

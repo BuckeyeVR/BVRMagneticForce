@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VectorThing1.cs">
+    <Files>
+      <File FileName="Assets\LookAtCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\DisplayControllerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cardboard\Scripts\Cardboard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cardboard\Scripts\CardboardHead.cs" Line="1" Column="1" />
+      <File FileName="Assets\StartScreenGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\1251FlexDipole\SceneAdvancer.cs" Line="1" Column="1" />
+      <File FileName="Assets\playbackTrack.cs" Line="1" Column="1" />
+      <File FileName="Assets\MouseOrbitImproved.cs" Line="1" Column="1" />
+      <File FileName="Assets\ArraySpawnerCylinder.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChargeStrength.cs" Line="1" Column="1" />
+      <File FileName="Assets\VectorThing.cs" Line="1" Column="1" />
+      <File FileName="Assets\VectorThingSphere.cs" Line="1" Column="1" />
+      <File FileName="Assets\ArraySpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\VectorThing1.cs" Line="5" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
